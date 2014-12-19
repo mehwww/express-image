@@ -1,6 +1,6 @@
 {
   "name": "express-image",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Image serve middleware for Express",
   "main": "index.js",
   "author": "mehwww",
@@ -8,6 +8,10 @@
   "dependencies": {
     "gm": "^1.17.0",
     "mime": "^1.2.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mehwww/express-image.git"
   },
   "devDependencies": {
     "browser-sync": "^1.8.0",
