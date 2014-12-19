@@ -1,0 +1,4 @@
+dev
+.idea
+node_modules
+*.log
